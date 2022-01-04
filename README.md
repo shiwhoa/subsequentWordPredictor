@@ -1,2 +1,4 @@
 # subsequentWordPredictor
-Predicts next word or phrase based on current text
+Deep Learning, NLP\
+Predicts next word or phrase based on current text\
+Uses LSTM Model
